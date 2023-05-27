@@ -1,0 +1,18 @@
+.odd {
+    background-color: #FEA7A7;
+    font-size: 40px;
+}
+.even {
+    font-family: Times;
+}
+.big {
+    font-size: 60px;
+}
+#elem-02 {
+    font-size: 80px;
+    color: #0000FF;
+}
+#elem-04 {
+    font-weight: bold;
+    background-color: #80FF80;
+}
